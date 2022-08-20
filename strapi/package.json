@@ -1,5 +1,5 @@
 {
-  "name": "fashtionshop",
+  "name": "strapi",
   "private": true,
   "version": "0.1.0",
   "description": "A Strapi application",
@@ -17,10 +17,10 @@
     "better-sqlite3": "7.4.6"
   },
   "author": {
-    "name": "ryu"
+    "name": "A Strapi developer"
   },
   "strapi": {
-    "uuid": "69d7b084-1874-47f1-b5e0-1fe330b4438b"
+    "uuid": "852dcd03-ae2e-43ab-b316-a02c6ce5613e"
   },
   "engines": {
     "node": ">=12.x.x <=16.x.x",
